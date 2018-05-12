@@ -1,0 +1,38 @@
+_repo: Pitching-in-a-Pinch--or-Baseball-from-the-Inside_33291
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Wheeler, John N. (John Neville)
+    alias: Wheeler, John Neville
+    birthdate: 1886
+    gutenberg_agent_id: '36314'
+    url: http://www.gutenberg.org/2009/agents/36314
+covers:
+- cover_type: archival
+  image_path: 33291-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mathewson, Christy
+    aliases:
+    - Mathewson, Matty
+    - Mathewson, Christopher
+    birthdate: 1880
+    deathdate: 1925
+    gutenberg_agent_id: '36313'
+    url: http://www.gutenberg.org/2009/agents/36313
+description: ''
+gutenberg_issued: '2010-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Pitching (Baseball)'
+- !lcsh 'Baseball -- United States -- History'
+- !lcsh 'Mathewson, Christy, 1880-1925'
+title: Pitching in a Pinch; or, Baseball from the Inside
+url: http://www.gutenberg.org/ebooks/33291
